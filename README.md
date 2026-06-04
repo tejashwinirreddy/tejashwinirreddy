@@ -32,7 +32,7 @@ ESP32 • Raspberry Pi • Arduino • Node-RED • Embedded C
 ---
 
 ## Featured Projects
-
+.
 
 |
  Project 
